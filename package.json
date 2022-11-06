@@ -1,0 +1,20 @@
+{
+  "name": "achievements-rd2-npm",
+  "version": "1.0.0",
+  "description": "Js practice exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliewa/freecodecamp-exercises.git"
+  },
+  "author": "Eli Ewa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliewa/freecodecamp-exercises/issues"
+  },
+  "homepage": "https://github.com/eliewa/freecodecamp-exercises#readme"
+}
