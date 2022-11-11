@@ -5,7 +5,18 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node index.js"
+    "build": "node index.js",
+    "build2": "node build2.js",
+    "build3": "node build3.js",
+    "build4": "node build4.js",
+    "build5": "node build5.js",
+    "build6": "node build6.js",
+    "build7": "node build7.js",
+    "build8": "node build8.js",
+    "build9": "node build9.js",
+    "build10": "node build10.js",
+    "build11": "node build11.js",
+    "build12": "node build12.js"
   },
   "repository": {
     "type": "git",
